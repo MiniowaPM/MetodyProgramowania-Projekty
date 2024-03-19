@@ -3,7 +3,7 @@ Metody Programowania
 Zagadnienia prowadzonych zajęć:
 1. Wykorzystanie rekurencji do rozwiązywania problemów algorytmicznych
 2. Programowanie z nawrotami na przykładzie "problemu hetmanów"
-3.Metoda dziel i zwyciężaj na przykładzie wyszukiwania przez podział binarny oraz algorytmu QuickSort 
+3. Metoda dziel i zwyciężaj na przykładzie wyszukiwania przez podział binarny oraz algorytmu QuickSort 
 4. Praktyczna implementacja list jedno i dwukierunkowych oraz cyklicznych
 5. Implementacja liniowych struktur danych: stosy i kolejki
 6. Implementacja liniowych struktur danych: grafy
